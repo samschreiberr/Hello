@@ -1,4 +1,9 @@
 Hello, World!
+<<<<<<< HEAD
 Hallo, Welt!
 Hola, Mundo!
 Ciao, Mondo!
+=======
+Hola, Mundo!
+Hallo, heimur!
+>>>>>>> Islenka
